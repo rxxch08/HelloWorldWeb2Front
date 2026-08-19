@@ -1,6 +1,6 @@
-import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom'
-import LoginPage from './pages/LoginPage'
-import StudentsPage from './pages/StudentsPage'
+import './app.css'
+import LoginPage from './pages/loginPage'
+import StudentsPage from './pages/studentsPage'
 
 function App() {
   return (
